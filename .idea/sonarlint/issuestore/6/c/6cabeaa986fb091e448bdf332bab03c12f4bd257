@@ -1,0 +1,22 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Tester" 4 times.(Ó¢‰÷8˜¼Ãë½1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Developer" 4 times.(úò”°þÿÿÿÿ8˜©Àë½1
+q
+java:S1192"ODefine a constant instead of duplicating this literal "North Caloocan" 3 times.(úò”°þÿÿÿÿ8˜¼Ãë½1
+k
+java:S2095C"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ú¥–È8âŠÕë½1
+r
+java:S2095D"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ðþÿÿÿÿ8âŠÕë½1
+L	java:S106%"+Replace this use of System.out by a logger.(Œ‡©Óûÿÿÿÿ8˜¼Ãë½1
+L	java:S106'"+Replace this use of System.out by a logger.(¨¶ÑÍþÿÿÿÿ8˜¼Ãë½1
+o
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8 ‹Õë½1
+o
+java:S62042"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8 ‹Õë½1
+o
+java:S62045"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8 ‹Õë½1
+o
+java:S62048"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8 ‹Õë½1
+L	java:S106>"+Replace this use of System.out by a logger.(¨¶ÑÍþÿÿÿÿ8˜¼Ãë½1

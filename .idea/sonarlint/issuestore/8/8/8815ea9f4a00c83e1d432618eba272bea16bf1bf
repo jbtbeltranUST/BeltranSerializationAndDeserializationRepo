@@ -1,0 +1,30 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¹ŸËë½1
+g	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¹ŸËë½1
+Q
+java:S3740?"/Provide the parametrized type for this generic.(õà¡Óùÿÿÿÿ8ºŸËë½1
+q
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8° Ëë½1
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ó‘ãé8° Ëë½1
+j
+java:S2095="MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(§¾Àù8¯ Ëë½1
+q
+java:S2095>"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8° Ëë½1
+L	java:S106"+Replace this use of System.out by a logger.(ÃµÉ®ýÿÿÿÿ8µ Ëë½1
+L	java:S106""+Replace this use of System.out by a logger.(ä³ôÿúÿÿÿÿ8¹ Ëë½1
+o
+java:S6204%"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8º Ëë½1
+o
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8» Ëë½1
+o
+java:S6204+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8» Ëë½1
+o
+java:S6204."RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¼ Ëë½1
+L	java:S106/"+Replace this use of System.out by a logger.(†Õ®Çýÿÿÿÿ8¼ Ëë½1
+L	java:S1061"+Replace this use of System.out by a logger.(Ð §Êüÿÿÿÿ8¼ Ëë½1
+G	java:S1063"+Replace this use of System.out by a logger.(²í°”8½ Ëë½1
+L	java:S1065"+Replace this use of System.out by a logger.(„ç­îýÿÿÿÿ8½ Ëë½1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8½ Ëë½1
+L	java:S106@"+Replace this use of System.out by a logger.(žíÄ“þÿÿÿÿ8¾ Ëë½1
